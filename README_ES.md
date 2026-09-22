@@ -4,6 +4,14 @@
 
 > Made by Kriss.
 
+## Probar en línea
+
+**Aplicación:** https://krisosom.github.io/qr-local/
+
+**Código fuente:** https://github.com/KrisOsoM/qr-local
+
+La versión alojada se ofrece por comodidad. La generación de QR, los archivos importados y las estadísticas de uso siguen procesándose localmente en el navegador; no se envía intencionalmente al autor el contenido de los QR ni telemetría.
+
 ## Objetivo
 
 QR Local busca ofrecer una alternativa simple para crear códigos QR estáticos sin depender de servicios externos, cuentas, suscripciones ni infraestructura en la nube.
