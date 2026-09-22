@@ -47,7 +47,7 @@ Examples include QR TIGER and Uniqode. QR Local is not intended to replicate the
 
 ## Contact email
 
-[ADD CONTACT EMAIL BEFORE SUBMISSION]
+madebykriss.dev@gmail.com
 
 ## Notes
 
