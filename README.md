@@ -4,6 +4,14 @@
 
 > Made by Kriss.
 
+## Try it online
+
+**Live app:** https://krisosom.github.io/qr-local/
+
+**Source code:** https://github.com/KrisOsoM/qr-local
+
+The hosted version is provided for convenience. QR generation, imported files, and usage statistics are still processed locally in the browser; no QR payload or telemetry is intentionally sent to the author.
+
 ## Why QR Local exists
 
 Many QR services are account-based, cloud-dependent, or reserve useful features for subscription plans. QR Local focuses on static QR creation that the user can keep and run locally with no recurring fee, no registration, and no external service dependency.
