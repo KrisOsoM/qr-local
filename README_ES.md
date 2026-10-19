@@ -18,6 +18,7 @@ QR Local busca ofrecer una alternativa simple para crear códigos QR estáticos 
 
 ## Funciones principales
 
+- Descarga directa de la copia HTML autónoma desde la aplicación en línea
 - Aplicación autónoma en un único archivo `index.html`
 - Funcionamiento offline
 - Sin registro ni instalación
@@ -43,7 +44,7 @@ Consulta [PRIVACY.md](PRIVACY.md).
 
 ## Uso
 
-1. Descarga `index.html`.
+1. Abre la aplicación en línea y pulsa **Descargar QR Local (.html)**, o descarga `index.html` desde este repositorio.
 2. Opcionalmente renómbralo a `QR Local.html`.
 3. Ábrelo con un navegador moderno.
 4. Selecciona el tipo de QR, ingresa los datos y genera el código.
