@@ -4,7 +4,7 @@
 
 **App name:** QR Local  
 **Author:** Kriss  
-**Current version:** v2.6.1  
+**Current version:** v2.6.2  
 **Price:** Free  
 **License:** MIT  
 **Category:** Utilities  
@@ -35,6 +35,7 @@ QR Local is a free, open-source, single-file QR generator that runs entirely in 
 - QR payloads are processed locally.
 - CSV/XLSX files are processed locally.
 - Single-file offline-capable distribution.
+- One-click offline HTML download from the live app.
 - PNG and SVG export.
 - Batch generation with ZIP + manifest.
 - Local-only statistics and charts.
@@ -51,4 +52,4 @@ madebykriss.dev@gmail.com
 
 ## Notes
 
-The GitHub Pages deployment is active and serves the same self-contained `index.html` available in the repository. Users who want a fully offline copy can download `index.html` and open it locally in a modern browser.
+The GitHub Pages deployment is active and serves the same self-contained `index.html` available in the repository. Users who want a fully offline copy can click **Download QR Local (.html)** in the live app or download `index.html` from the repository and open it locally in a modern browser.
