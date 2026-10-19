@@ -18,6 +18,7 @@ Many QR services are account-based, cloud-dependent, or reserve useful features 
 
 ## Features
 
+- One-click download of the self-contained offline HTML from the live app
 - Single-file application: `index.html`
 - Works offline after download
 - No account or installation required
@@ -54,8 +55,8 @@ See [PRIVACY.md](PRIVACY.md) for details.
 
 ## How to use
 
-1. Download `index.html`.
-2. Optionally rename it to `QR Local.html`.
+1. Open the live app and click **Download QR Local (.html)**, or download `index.html` from this repository.
+2. Optionally rename the downloaded file to `QR Local.html`.
 3. Open it with a modern browser.
 4. Choose a QR type and enter the content.
 5. Generate and export as PNG or SVG.
@@ -75,7 +76,7 @@ Mobile browsers may work, but mobile distribution is not currently a tested/rele
 
 ## Current release
 
-**v2.6.1**
+**v2.6.2**
 
 See [CHANGELOG.md](CHANGELOG.md).
 
