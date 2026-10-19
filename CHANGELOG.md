@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.6.2 — 2026-10-19
+
+- Added a one-click **Download QR Local (.html)** action to the live app.
+- The downloaded copy remains a self-contained single HTML file and works offline.
+- Added a direct source-code link beside the download action.
+- Removed a duplicated local-mode console message.
+
 ## v2.6.1 — 2026-09-14
 
 - Fixed statistics chart layout overflow.
